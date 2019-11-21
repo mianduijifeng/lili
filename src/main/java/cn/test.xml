@@ -1,0 +1,24 @@
+<xml>
+<!--    <xml>
+          <ToUserName><![CDATA[toUser]]></ToUserName>
+          <FromUserName><![CDATA[fromUser]]></FromUserName>
+          <CreateTime>1348831860</CreateTime>
+          <MsgType><![CDATA[text]]></MsgType>
+          <Content><![CDATA[this is a test]]></Content>
+          <MsgId>1234567890123456</MsgId>
+</xml>
+-->
+    <ToUserName><![CDATA[gh_653b755faa0f]]></ToUserName>
+    <FromUserName><![CDATA[oSOPuwcGP7u_gDOIJI4aZmWgKHSM]]></FromUserName>
+    <CreateTime>1574082542</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[鍐帀娲乚]></Content>
+<MsgId>22535440300495977</MsgId>
+</xml>
+
+
+<!--        {Content=难受, CreateTime=1574084871, -->
+<!--        ToUserName=gh_653b755faa0f, -->
+<!--        FromUserName=oSOPuwcGP7u_gDOIJI4aZmWgKHSM,-->
+<!--         MsgType=text-->
+<!--        , MsgId=22535477882549405} -->
